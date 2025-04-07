@@ -79,6 +79,34 @@ h1 p {
     text-align: center;
 }
 
+.gen_info {
+    margin: 25px 15px;
+}
+
+.img4 {
+    height: 200px;
+    width: 346px;
+}
+
+.img5 {
+    height: 200px;
+    width:260px;
+}
+
+.img6 {
+    height: 200px;
+    width: 133px;
+}
+
+.img7 {
+    height: 200px;
+    width: 252px;
+}
+
+.img4, .img5, .img6, .img7 {
+    border: 1px solid #010B00;
+}
+
 .raditz {
     display: inline-block;
     width: 1200px;
@@ -99,7 +127,7 @@ h1 p {
     text-align: left;
 }
 
-.raditz h2, h3 {
+.raditz h2, .raditz h3 {
     color: #010B00;
 }
 
@@ -172,7 +200,7 @@ h1 p {
 
 .raditz_allies {
     display: inline-block;
-    width: 300px;
+    width: 592px;
     height: 800px;
     border: 2px solid #010B00;
     background-color: #8F451B;
@@ -190,6 +218,7 @@ h1 p {
 
 .raditz_allies h3 {
     text-align: center;
+    color:#010B00;
 }
 
 .raditz_allies img {
@@ -228,7 +257,7 @@ h1 p {
 
 .raditz_villains {
     display: inline-block;
-    width: 300px;
+    width: 592px;
     height: 500px;
     border: 2px solid #010B00;
     background-color: #8F451B;
@@ -238,6 +267,51 @@ h1 p {
 
 .raditz_villains h3 {
     text-align: center;
+    color:#010B00;
+}
+
+.rad25 {
+    height: 100px;
+    width: 178px;
+}
+
+.rad26 {
+    height: 100px;
+    width: 143px;
+}
+
+.vegeta {
+    display: inline-block;
+    width: 1200px;
+    height: 1000px;
+    border: 2px solid #1D1918;
+    background-color: #2440AA;
+}
+
+.vegeta p {
+    color: #DFE4E4;
+    margin-left: 10px;
+    margin-right: 5px;
+}
+
+.vegeta h2 {
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.vegeta h3 {
+    margin-left: 25px;
+    margin-bottom: 10px;
+    text-align: left;
+}
+
+.vegeta h2, .vegeta h3 {
+    color: #DFE4E4;
+}
+
+.vegeta a {
+    color: #F9E07B;
 }
 
 
@@ -245,6 +319,3 @@ h1 p {
 
 
 
-.gen_info {
-    margin: 25px 15px;
-}
